@@ -17,7 +17,6 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 
 - **Team**
   - [Miguel Angel Gomariz Cantador](https://github.com/miguelillo42)
-  - [Andrés Lorenzo Carvia](https://github.com/wirfen)
 - **Project description**: Primer contacto con git
 - **Repository**: [gti-sos/SOS1718-07](https://github.com/gti-sos/SOS1718-07)
 - **URL**: [TBD](#)
