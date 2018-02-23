@@ -42,7 +42,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Team**
   - [Baltasar Ramírez Romero](https://github.com/balramrom)
 - **Project description**: pruebas para SOS
-- **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-09)
+- **Repository**: [SOS1617/SOS1718-09](https://github.com/gti-sos/SOS1718-09)
 - **URL**: [TBD](#)
 
 #############################################################################
