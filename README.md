@@ -14,15 +14,19 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **URL**: [TBD](#)
 
 ################################################################################
+## SOS1718-07
 
 - **Team**
-  - [Miguel Angel Gomariz Cantador](https://github.com/miguelillo42)
-  - [Francisco Jesus Perez Zamorano](https://github.com/fraperzam)
+    - [Miguel Angel Gomariz Cantador](https://github.com/miguelillo42)
+    - [Francisco Jesus Perez Zamorano](https://github.com/fraperzam)
+    - [Ismael Álvarez Guerrero](https://github.com/ismalvgue)
 - **Project description**: Primer contacto con git
 - **Repository**: [gti-sos/SOS1718-07](https://github.com/gti-sos/SOS1718-07)
 - **URL**: [TBD](#)
 
 ################################################################################
+
+## SOS1718-02 
 
 - **Team**
   - [Mª Dolores Sanchez Rodriguez](https://github.com/LolaSanchez)
@@ -40,5 +44,28 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Baltasar Ramírez Romero](https://github.com/balramrom)
   - [Alvaro Jimenez Rodriguez](https://github.com/alvjimrod1)
 - **Project description**: pruebas para SOS
-- **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-09)
+- **Repository**: [SOS1617/SOS1718-09](https://github.com/gti-sos/SOS1718-09)
+- **URL**: [TBD](#)
+
+#############################################################################
+## SOS1718-01
+
+- **Team**
+  - [Francisco Sanchez Rivas](https://github.com/FranciscoSR11)
+  - [Manuel Lineros Solano](https://github.com/ManuLineros)
+  - [Pablo Ledo Antunes](https://github.com/PabloLedo97)
+- **Project description**: Tarea 11 backlog Lunes 26 Febrero
+- **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-01)
+- **URL**: [TBD](#)
+
+#############################################################################
+
+## SOS1718-08
+
+- **Team**
+  - [José Enrique Prieto Menacho](https://github.com/josprimen)
+  - [](https://github.com/)
+  - [](https://github.com/)
+- **Project description**: Tarea 11 backlog Lunes 26 Febrero
+- **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-08)
 - **URL**: [TBD](#)
