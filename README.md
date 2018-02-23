@@ -43,7 +43,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Team**
   - [Baltasar Ramírez Romero](https://github.com/balramrom)
 - **Project description**: pruebas para SOS
-- **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-09)
+- **Repository**: [SOS1617/SOS1718-09](https://github.com/gti-sos/SOS1718-09)
 - **URL**: [TBD](#)
 
 #############################################################################
@@ -55,4 +55,16 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Pablo Ledo Antunes](https://github.com/PabloLedo97)
 - **Project description**: Tarea 11 backlog Lunes 26 Febrero
 - **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-01)
+- **URL**: [TBD](#)
+
+#############################################################################
+
+## SOS1718-08
+
+- **Team**
+  - [José Enrique Prieto Menacho](https://github.com/josprimen)
+  - [](https://github.com/)
+  - [](https://github.com/)
+- **Project description**: Tarea 11 backlog Lunes 26 Febrero
+- **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-08)
 - **URL**: [TBD](#)
