@@ -17,9 +17,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 ## SOS1718-07
 
 - **Team**
-  - [Miguel Angel Gomariz Cantador](https://github.com/miguelillo42)
-  - [Francisco Jesus Perez Zamorano](https://github.com/fraperzam)
-  - [Ismael Álvarez Guerrero](https://github.com/ismalvgue)
+    - [Miguel Angel Gomariz Cantador](https://github.com/miguelillo42)
+    - [Francisco Jesus Perez Zamorano](https://github.com/fraperzam)
+    - [Ismael Álvarez Guerrero](https://github.com/ismalvgue)
 - **Project description**: Primer contacto con git
 - **Repository**: [gti-sos/SOS1718-07](https://github.com/gti-sos/SOS1718-07)
 - **URL**: [TBD](#)
