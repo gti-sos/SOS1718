@@ -41,3 +41,14 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Project description**: pruebas para SOS
 - **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-09)
 - **URL**: [TBD](#)
+- ###############################################################################
+## SOS1718-01
+
+**Team**
+-  [Pablo Ledo Antúnez](https://github.com/PabloLedo97)
+-  [Francisco Sanchez Rivas](https://github.com/FranciscoSR11)
+-  [Manuel Lineros Solano](https://github.com/ManuLineros)
+-  **Project description**: Tarea 11 Backlog Lunes 26 de Febrero
+-  
+-  **Repository**:[gti-sos/SOS1718-01](https://github.com/gti-sos/SOS1718-01)
+-  **URL**:[TBD](#)
