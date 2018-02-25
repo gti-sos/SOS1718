@@ -3,6 +3,18 @@ Service Oriented Systems (Sistemas Orientados a Servicios) 2017/2018 at [Univeri
 
 List of Projects registered in the course of **Service Oriented Systems** (2017/2018)
 
+## SOS1718-10
+
+- **Team**
+  - [Victor Canseco Magro](https://github.com/viccanmag)
+  - [David Bonilla Díaz](https://github.com/davidbonilla37)
+  - [Francisco Guijarro Grau](https://github.com/Fraguigra)
+- **Project description**: Tarea 11 Backlog Lunes 26 Febrero
+- **Repository**: [SOS1617/SOS1718-10](https://github.com/gti-sos/SOS1718-10)
+- **URL**: [TBD](#)
+
+#############################################################################
+
 ## SOS1718-12
 
 - **Team**
