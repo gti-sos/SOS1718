@@ -3,6 +3,17 @@ Service Oriented Systems (Sistemas Orientados a Servicios) 2017/2018 at [Univeri
 
 List of Projects registered in the course of **Service Oriented Systems** (2017/2018)
 
+## SOS1718-13
+
+- **Team**
+  - [Alfonso Gutiérrez Romero](https://github.com/agr25)
+  - [Alejandro Suárez Fernández](https://github.com/alumno-sos-1)
+  - [Pascual Requena Lama](https://github.com/alumno-sos-2)
+- **Project description**: pruebas para SOS 
+- **Repository**: [SOS1617/SOS1718-12](https://github.com/gti-sos/SOS1718-13)
+- **URL**: [TBD](#)
+
+################################################################################
 ## SOS1718-12
 
 - **Team**
