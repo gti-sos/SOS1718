@@ -6,11 +6,11 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 ## SOS1718-12
 
 - **Team**
-  - [Jose Llopis Zapata](https://github.com/https://github.com/jllopis2)
-  - [Manuel Jesus Torres Rincon](https://github.com/alumno-sos-1)
+  - [Jose Llopis Zapata](https://github.com/jllopis2)
+  - [Manuel Jesus Torres Rincon](https://github.com/mjtr)
   - [Veronica Vela Palomo](https://github.com/alumno-sos-2)
 - **Project description**: pruebas para SOS 
-- **Repository**: [SOS1617/SOS1718-12](https://github.com/gti-sos/SOS1718-00)
+- **Repository**: [SOS1617/SOS1718-12](https://github.com/gti-sos/SOS1718-12)
 - **URL**: [TBD](#)
 
 ################################################################################
