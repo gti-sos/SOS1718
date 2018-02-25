@@ -94,3 +94,14 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Project description**: Tarea 11 backlog Lunes 26 Febrero
 - **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-11)
 - **URL**: [TBD](#)
+
+#############################################################################
+
+## SOS1718-06
+
+- **Team**
+  - [Dionisio Galvez Camacho](https://github.com/diogalcam)
+  - [Alvaro Ortega Medina](https://github.com/alvortmed)
+- **Project description**: Tarea 11 backlog Lunes 26 Febrero
+- **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-06)
+- **URL**: [TBD](#)
