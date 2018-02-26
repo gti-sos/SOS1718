@@ -9,7 +9,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Victor Canseco Magro](https://github.com/viccanmag)
   - [David Bonilla Díaz](https://github.com/davidbonilla37)
   - [Francisco Guijarro Grau](https://github.com/Fraguigra)
-- **Project description**: Tarea 11 backlog Lunes 26 Febrero
+- **Project description**: Tarea 11 Backlog Lunes 26 Febrero
 - **Repository**: [SOS1617/SOS1718-10](https://github.com/gti-sos/SOS1718-10)
 - **URL**: [TBD](#)
 
