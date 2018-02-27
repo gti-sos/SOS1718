@@ -9,7 +9,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Victor Canseco Magro](https://github.com/viccanmag)
   - [David Bonilla Díaz](https://github.com/davidbonilla37)
   - [Francisco Guijarro Grau](https://github.com/Fraguigra)
-- **Project description**: Tarea 11 Backlog Lunes 26 Febrero
+- **Project description**: Tarea 11 BACKLOG Lunes 26 Febrero
 - **Repository**: [SOS1617/SOS1718-10](https://github.com/gti-sos/SOS1718-10)
 - **URL**: [TBD](#)
 
@@ -21,7 +21,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Jose Llopis Zapata](https://github.com/jllopis2)
   - [Manuel Jesus Torres Rincon](https://github.com/mjtr)
   - [Veronica Vela Palomo](https://github.com/kkdekiki)
-- **Project description**: pruebas para SOS 
+- **Project description**: Analizaremos la relación existente entre el número de denuncias por violación en la UE, tasas de impuestos sobre los bienes inmobiliarios y datos hospitalarios europeos.
 - **Repository**: [SOS1617/SOS1718-12](https://github.com/gti-sos/SOS1718-12)
 - **URL**: [TBD](#)
 
