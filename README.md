@@ -92,7 +92,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Carlos Montero Tapia](https://github.com/carmontap)
   - [Andrés Rodríguez Gómez](https://github.com/rgfandres)
 - **Project description**: Tarea 11 backlog Lunes 26 Febrero
-- **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-08)
+- **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-04)
 - **URL**: [TBD](#)
 
 #############################################################################
