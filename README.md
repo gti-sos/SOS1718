@@ -9,7 +9,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Francisco Sanchez Rivas](https://github.com/FranciscoSR11)
   - [Manuel Lineros Solano](https://github.com/ManuLineros)
   - [Pablo Ledo Antunez](https://github.com/PabloLedo97)
-- **Project description**: Tarea 11 backlog Lunes 26 Febrero
+- **Project description**:Study on spending on signings, average of viewers and revenue from television rights of the Spanish Football League.
 - **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-01)
 - **URL**: [TBD](#)
 
@@ -89,7 +89,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Baltasar Ramírez Romero](https://github.com/balramrom)
   - [Alvaro Jimenez Rodriguez](https://github.com/alvjimrod1)
   - [Rafael Arellano Romero](https://github.com/rarellano)
-- **Project description**: pruebas para SOS
+- **Project description**: Data processing of Spanish universities.
 - **Repository**: [SOS1617/SOS1718-09](https://github.com/gti-sos/SOS1718-09)
 - **URL**: [TBD](#)
 
@@ -99,7 +99,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Victor Canseco Magro](https://github.com/viccanmag)
   - [David Bonilla Díaz](https://github.com/davidbonilla37)
   - [Francisco Guijarro Grau](https://github.com/Fraguigra)
-- **Project description**: Tarea 11 BACKLOG Lunes 26 Febrero
+- **Project description**:Comparison between the use of different transports of the autonomous communities of Spain.
 - **Repository**: [SOS1617/SOS1718-10](https://github.com/gti-sos/SOS1718-10)
 - **URL**: [TBD](#)
 
@@ -109,7 +109,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Antonio López Soult](https://github.com/TITANLUX619)
   - [Mar López Soult](https://github.com/soult91)
   - [Luciano del Valle Cano](https://github.com/lucdelcan)
-- **Project description**: Tarea 11 backlog Lunes 26 Febrero
+- **Project description**: sports results analysis
 - **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-11)
 - **URL**: [TBD](#)
 
