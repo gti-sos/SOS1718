@@ -119,7 +119,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Jose Llopis Zapata](https://github.com/jllopis2)
   - [Manuel Jesus Torres Rincon](https://github.com/mjtr)
   - [Veronica Vela Palomo](https://github.com/kkdekiki)
-- **Project description**: Analizaremos la relación existente entre el número de denuncias por violación en la UE, tasas de impuestos sobre los bienes inmobiliarios y datos hospitalarios europeos.
+- **Project description**:We will analyze the relationship between the number of complaints about violations in the EU, tax rates on real estate and European hospital data. 
 - **Repository**: [SOS1617/SOS1718-12](https://github.com/gti-sos/SOS1718-12)
 - **URL**: [TBD](#)
 
