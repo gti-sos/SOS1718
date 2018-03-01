@@ -23,6 +23,16 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [gti-sos/SOS1718-02](https://github.com/gti-sos/SOS1718-02)
 - **URL**: [TBD](#)
 
+## SOS1718-03 
+
+- **Team**
+  - [Jose Maria Barrero Olmedo](https://github.com/josbarolm)
+  - [Adan Manuel Franco Moreno](https://github.com/adaframor)
+  - [Antonio José Perea Guadix](https://github.com/antpergua)
+- **Project description**: Tarea 11 del backlog para el F01
+- **Repository**: [gti-sos/SOS1718-02](https://github.com/gti-sos/SOS1718-03)
+- **URL**: [TBD](#)
+
 ## SOS1718-04
 
 - **Team**
