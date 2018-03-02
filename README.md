@@ -39,7 +39,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Cristian Romero Povea](https://github.com/crirompov)
   - [Carlos Montero Tapia](https://github.com/carmontap)
   - [Andrés Rodríguez Gómez](https://github.com/rgfandres)
-- **Project description**: Tarea 11 backlog Lunes 26 Febrero
+- **Project description**: The project connects health care data, study level data and unemployment data.
 - **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-04)
 - **URL**: [TBD](#)
 
