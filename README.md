@@ -19,7 +19,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Mª Dolores Sanchez Rodriguez](https://github.com/LolaSanchez)
   - [Andres Lorenzo Carvia](https://github.com/wirfen)
   - [Jose Angel Martinez Maqueda](https://github.com/joseangelmm)
-- **Project description**: Comparision between spend education, unemployments and emplyments in UE
+- **Project description**: Comparision between spend education, unemployments and emplyments in UE.
 - **Repository**: [gti-sos/SOS1718-02](https://github.com/gti-sos/SOS1718-02)
 - **URL**: [TBD](#)
 
