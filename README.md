@@ -10,7 +10,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Manuel Lineros Solano](https://github.com/ManuLineros)
   - [Pablo Ledo Antunez](https://github.com/PabloLedo97)
 - **Project description**:Study on spending on signings, average of viewers and revenue from television rights of the Spanish Football League.
-- **Repository**: [SOS1617/SOS1718-01](https://github.com/gti-sos/SOS1718-01)
+- **Repository**: [gti-sos/SOS1718-01](https://github.com/gti-sos/SOS1718-01)
 - **URL**: [TBD](#)
 
 ## SOS1718-02 
