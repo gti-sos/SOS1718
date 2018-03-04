@@ -109,7 +109,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Antonio López Soult](https://github.com/TITANLUX619)
   - [Mar López Soult](https://github.com/soult91)
   - [Luciano del Valle Cano](https://github.com/lucdelcan)
-- **Project description**: Tarea 11 backlog Lunes 26 Febrero
+- **Project description**: Processing of data collected from matches of differents sports
 - **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-11)
 - **URL**: [TBD](#)
 
