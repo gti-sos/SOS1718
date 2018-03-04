@@ -40,7 +40,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Carlos Montero Tapia](https://github.com/carmontap)
   - [Andrés Rodríguez Gómez](https://github.com/rgfandres)
 - **Project description**: The project connects health care data, study level data and unemployment data.
-- **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-04)
+- **Repository**: [SOS1617/SOS1718-04](https://github.com/gti-sos/SOS1718-04)
 - **URL**: [TBD](#)
 
 ## SOS1718-05
