@@ -110,7 +110,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Mar López Soult](https://github.com/soult91)
   - [Luciano del Valle Cano](https://github.com/lucdelcan)
 - **Project description**: Processing of data collected from matches of differents sports
-- **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-11)
+- **Repository**: [SOS1718/SOS1718-11](https://github.com/gti-sos/SOS1718-11)
 - **URL**: [TBD](#)
 
 ## SOS1718-12
