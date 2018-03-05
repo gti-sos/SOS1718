@@ -129,6 +129,6 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Pascual Requena Lama](https://github.com/Requena115)
   - [Alejando Suarez Fernandez](https://github.com/AlejandroSuarezFdez)
   - [Alfonso Gutierrez Romero](https://github.com/agr25)
-- **Project description**: Tarea 11 backlog Lunes 26 Febrero
-- **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-13)
+- **Project description**: Looking for a correlation between motoGP and F1 champions and the Global Peace Index, considering every posibility.
+- **Repository**: [SOS1617/SOS1718-13](https://github.com/gti-sos/SOS1718-13)
 - **URL**: [TBD](#)
