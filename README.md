@@ -79,7 +79,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [José Enrique Prieto Menacho](https://github.com/josprimen)
   - [José Manuel Jurado Álvarez](https://github.com/jura2alvarez)
   - [María Solís Diago](https://github.com/unpezllamadomiki)
-- **Project description**: Study of relationship between divorces, homicides and schoolar failures.
+- **Project description**: Study of relationship between divorces, crimes and schoolar failure.
 - **Repository**: [SOS1617/SOS1718-08](https://github.com/gti-sos/SOS1718-08)
 - **URL**: [TBD](#)
 
