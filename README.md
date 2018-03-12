@@ -99,9 +99,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Victor Canseco Magro](https://github.com/viccanmag)
   - [David Bonilla Díaz](https://github.com/davidbonilla37)
   - [Francisco Guijarro Grau](https://github.com/Fraguigra)
-- **Project description**: -Comparison between the use of different transports of the autonomous communities of Spain. 
--                          -Comparison of the ages of the world champions of the MotoGP world.                                             
--                          -Comparison the builders world champions for years of formula 1.
+- **Project description**: -Comparison between the use of different transports of the autonomous communities of Spain, comparison of the ages of the world champions of the MotoGP world and Comparison the builders world champions for years of formula 1.
 - **Repository**: [SOS1617/SOS1718-10](https://github.com/gti-sos/SOS1718-10)
 - **URL**: [TBD](#)
 
