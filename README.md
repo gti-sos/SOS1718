@@ -41,7 +41,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Andrés Rodríguez Gómez](https://github.com/rgfandres)
 - **Project description**: The project connects health care data, study level data and unemployment data.
 - **Repository**: [SOS1617/SOS1718-04](https://github.com/gti-sos/SOS1718-04)
-- **URL**: [TBD](#)
+- **URL**: [TBD](https://sos1718-04.herokuapp.com)
+- **APIs**:
++ [https://sos1718-04.herokuapp.com/api/v1/unemployment-rates](https://sos1718-04.herokuapp.com/api/v1/unemployment-rates) - (Developed by Cristian Romero Povea) 
 
 ## SOS1718-05
 
