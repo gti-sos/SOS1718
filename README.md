@@ -112,9 +112,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [SOS1617/SOS1718-10](https://github.com/gti-sos/SOS1718-10)
 - **URL**: [TBD](https://sos1718-10.herokuapp.com/)
 - **APIs**:
-  - [https://sos1718-10.herokuapp.com/api/v1/buses/docs](https://sos1718-10.herokuapp.com/api/v1/buses) **(developed by** [Victor Canseco Magro)](https://github.com/viccanmag)
-  - [https://sos1718-10.herokuapp.com/api/v1/buildings/docs](https://sos1718-10.herokuapp.com/api/v1/buildings) **(developed by** [David Bonilla Díaz)](https://github.com/davidbonilla37)
-  - [https://sos1718-10.herokuapp.com/api/v1/motogp-stats/docs](https://sos1718-10.herokuapp.com/api/v1/motogp-stats) **(developed by** [Francisco Guijarro Grau)](https://github.com/Fraguigra)
+  - [https://sos1718-10.herokuapp.com/api/v1/buses/docs](https://sos1718-10.herokuapp.com/api/v1/buses) **(developed by** [Victor Canseco Magro**)**](https://github.com/viccanmag)
+  - [https://sos1718-10.herokuapp.com/api/v1/buildings/docs](https://sos1718-10.herokuapp.com/api/v1/buildings) **(developed by** [David Bonilla Díaz**)**](https://github.com/davidbonilla37)
+  - [https://sos1718-10.herokuapp.com/api/v1/motogp-stats/docs](https://sos1718-10.herokuapp.com/api/v1/motogp-stats) **(developed by** [Francisco Guijarro Grau**)**](https://github.com/Fraguigra)
 
 ## SOS1718-11
 
