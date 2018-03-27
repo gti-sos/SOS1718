@@ -81,7 +81,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **APIs**:
     - [http://sos1718-07.herokuapp.com/api/v1/global-terrorism-data/docs](http://sos1718-07.herokuapp.com/api/v1/global-terrorism-data/docs) (developed by Miguel Angel Gomariz Cantador)
     - [https://sos1718-07.herokuapp.com/api/v1/homicide-reports-data/docs](https://sos1718-07.herokuapp.com/api/v1/homicide-reports-data/docs) (developed by Francisco Jesús Pérez Zamorano)
-    - [https://sos1718-07.herokuapp.com/api/v1/attacks-data/dpcs](https://sos1718-07.herokuapp.com/api/v1/attacks-data/docs) (developed by Ismael Álvarez Guerrero)
+    - [https://sos1718-07.herokuapp.com/api/v1/attacks-data/docs](https://sos1718-07.herokuapp.com/api/v1/attacks-data/docs) (developed by Ismael Álvarez Guerrero)
 
 ## SOS1718-08
 
