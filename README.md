@@ -97,8 +97,10 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Rafael Arellano Romero](https://github.com/rarellano)
 - **Project description**: processing data of Spanish universities.
 - **Repository**: [SOS1617/SOS1718-09](https://github.com/gti-sos/SOS1718-09)
-- **URL**: [TBD](#)
-
+- **URL**: [TBD](http://sos1718-09.herokuapp.com/ )
+- **APIs**:
+  - [https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs](https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs) (developed by Baltasar Ramírez Romero)
+  
 ## SOS1718-10
 
 - **Team**
