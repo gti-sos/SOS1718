@@ -58,7 +58,11 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Vicente García Mestre](https://github.com/vicgarmes)
 - **Project description**: Our objective is the gathering of data regarding music sales and popularity all over the world in order to study it.
 - **Repository**: [SOS1617/SOS1718-05](https://github.com/gti-sos/SOS1718-05)
-
+- **URL**: [Heroku](https://sos1718-05.herokuapp.com)
+- **APIs**:
+    - [country-stats](http://sos1718-05.herokuapp.com/api/v1/country-stats) -  (developed by Manuel Barea Gallego)
+    - [best-stats](http://sos1718-05.herokuapp.com/api/v1/best-stats) -  (developed by Julio Perea Rodriguez)
+    - [best-sellers-stats](http://sos1718-05.herokuapp.com/api/v1/best-sellers-stats) -  (developed by Vicente García Mestregit)
 
 ## SOS1718-06
 
