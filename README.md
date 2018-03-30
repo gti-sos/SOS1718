@@ -62,7 +62,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **APIs**:
     - [country-stats](http://sos1718-05.herokuapp.com/api/v1/country-stats) -  (developed by Manuel Barea Gallego)
     - [best-stats](http://sos1718-05.herokuapp.com/api/v1/best-stats) -  (developed by Julio Perea Rodriguez)
-    - [best-sellers-stats](http://sos1718-05.herokuapp.com/api/v1/best-sellers-stats) -  (developed by Vicente García Mestregit)
+    - [best-sellers-stats](http://sos1718-05.herokuapp.com/api/v1/best-sellers-stats) -  (developed by Vicente García Mestre)
 
 ## SOS1718-06
 
