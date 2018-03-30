@@ -58,7 +58,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Vicente García Mestre](https://github.com/vicgarmes)
 - **Project description**: Our objective is the gathering of data regarding music sales and popularity all over the world in order to study it.
 - **Repository**: [SOS1617/SOS1718-05](https://github.com/gti-sos/SOS1718-05)
-- **URL**: [TBD](#)
+
 
 ## SOS1718-06
 
