@@ -109,6 +109,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **URL**: [TBD](http://sos1718-09.herokuapp.com/ )
 - **APIs**:
   - [https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs](https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs) (developed by Baltasar Ramírez Romero)
+  - [https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs](https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs) (developed by Álvaro Jiménez Rodríguez)
   
 ## SOS1718-10
 
