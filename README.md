@@ -106,22 +106,6 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 
 - **Team**
   - [Baltasar Ramírez Romero](https://github.com/balramrom)
-<<<<<<< HEAD
-- **Project description**: pruebas para SOS
-- **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-09)
-- **URL**: [TBD](#)
-- ###############################################################################
-## SOS1718-01
-
-**Team**
--  [Pablo Ledo Antúnez](https://github.com/PabloLedo97)
--  [Francisco Sanchez Rivas](https://github.com/FranciscoSR11)
--  [Manuel Lineros Solano](https://github.com/ManuLineros)
--  **Project description**: Tarea 11 Backlog Lunes 26 de Febrero
--  
--  **Repository**:[gti-sos/SOS1718-01](https://github.com/gti-sos/SOS1718-01)
--  **URL**:[TBD](#)
-=======
   - [Alvaro Jimenez Rodriguez](https://github.com/alvjimrod1)
   - [Rafael Arellano Romero](https://github.com/rarellano)
 - **Project description**: processing data of Spanish universities.
@@ -130,6 +114,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **APIs**:
   - [https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs](https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs) (developed by Baltasar Ramírez Romero)
   - [https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs](https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs) (developed by Álvaro Jiménez Rodríguez)
+  - [https://sos1718-09.herokuapp.com/api/v2/open-source-contests/docs](https://sos1718-09.herokuapp.com/api/v2/open-source-contests/docs) (developed by Rafael Arellano Romero)
   
 ## SOS1718-10
 
@@ -172,6 +157,10 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Project description**:We will analyze the relationship between the number of complaints about violations in the EU, tax rates on real estate and European hospital data. 
 - **Repository**: [SOS1617/SOS1718-12](https://github.com/gti-sos/SOS1718-12)
 - **URL**: [TBD](https://sos1718-12.herokuapp.com)
+- **APIS**:
+    - [https://sos1718-12.herokuapp.com/api/v1/rape-stats/docs](https://documenter.getpostman.com/view/360397/sos1718-12-rape-stats-completo/RVu1GWFS)(developed by Manuel Jesús Torres Rincón)
+    - [https://sos1718-12.herokuapp.com/api/v1/hospital-stats/docs]()(developed by Verónica Vela Palomo)
+    - [https://sos1718-12.herokuapp.com/api/v1/taxes-stats/docs]()(developed by Jose Llopis Zapata)
 
 ## SOS1718-13
 
@@ -182,4 +171,3 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Project description**: Looking for a correlation between motoGP and F1 champions and the Global Peace Index, considering every posibility.
 - **Repository**: [SOS1617/SOS1718-13](https://github.com/gti-sos/SOS1718-13)
 - **URL**: [TBD](#)
->>>>>>> 59a97b994cabd676947b1b42145184381b2aabb4
