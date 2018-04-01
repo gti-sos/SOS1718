@@ -106,11 +106,15 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 
 - **Team**
   - [Baltasar Ramírez Romero](https://github.com/balramrom)
-<<<<<<< HEAD
-- **Project description**: pruebas para SOS
-- **Repository**: [SOS1617/SOS1718-00](https://github.com/gti-sos/SOS1718-09)
-- **URL**: [TBD](#)
-- ###############################################################################
+  - [Alvaro Jimenez Rodriguez](https://github.com/alvjimrod1)
+  - [Rafael Arellano Romero](https://github.com/rarellano)
+- **Project description**: processing data of Spanish universities.
+- **Repository**: [SOS1617/SOS1718-09](https://github.com/gti-sos/SOS1718-09)
+- **URL**: [TBD](http://sos1718-09.herokuapp.com/ )
+- **APIs**:
+  - [https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs](https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs) (developed by Baltasar Ramírez Romero)
+  - [https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs](https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs) (developed by Álvaro Jiménez Rodríguez)
+
 ## SOS1718-01
 
 **Team**
@@ -121,15 +125,8 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 -  
 -  **Repository**:[gti-sos/SOS1718-01](https://github.com/gti-sos/SOS1718-01)
 -  **URL**:[TBD](#)
-=======
-  - [Alvaro Jimenez Rodriguez](https://github.com/alvjimrod1)
-  - [Rafael Arellano Romero](https://github.com/rarellano)
-- **Project description**: processing data of Spanish universities.
-- **Repository**: [SOS1617/SOS1718-09](https://github.com/gti-sos/SOS1718-09)
-- **URL**: [TBD](http://sos1718-09.herokuapp.com/ )
-- **APIs**:
-  - [https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs](https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs) (developed by Baltasar Ramírez Romero)
-  - [https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs](https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs) (developed by Álvaro Jiménez Rodríguez)
+
+
   
 ## SOS1718-10
 
