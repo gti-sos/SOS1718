@@ -169,6 +169,10 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Project description**:We will analyze the relationship between the number of complaints about violations in the EU, tax rates on real estate and European hospital data. 
 - **Repository**: [SOS1617/SOS1718-12](https://github.com/gti-sos/SOS1718-12)
 - **URL**: [TBD](https://sos1718-12.herokuapp.com)
+- **APIS**:
+    - [https://sos1718-12.herokuapp.com/api/v1/rape-stats/docs](https://documenter.getpostman.com/view/360397/sos1718-12-rape-stats-completo/RVu1GWFS)(developed by Manuel Jesús Torres Rincón)
+    - [https://sos1718-12.herokuapp.com/api/v1/hospital-stats/docs]()(developed by Verónica Vela Palomo)
+    - [https://sos1718-12.herokuapp.com/api/v1/taxes-stats/docs]()(developed by Jose Llopis Zapata)
 
 ## SOS1718-13
 
