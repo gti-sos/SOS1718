@@ -101,6 +101,11 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Project description**: Study of relationship between divorces, crimes and schoolar failure.
 - **Repository**: [SOS1617/SOS1718-08](https://github.com/gti-sos/SOS1718-08)
 - **URL**: [TBD](#)
+- **APIs**:
+    - [https://sos1718-08.herokuapp.com/api/v1/crimes-an/docs](https://sos1718-08.herokuapp.com/api/v1/crimes-an/docs) (developed by Jose Enrique Prieto Menacho)
+    - [https://sos1718-08.herokuapp.com/api/v1/divorces-an/docs](https://sos1718-08.herokuapp.com/api/v1/divorces-an/docs) (developed by Jose Manuel Jurado Alvarez)
+    - [https://sos1718-08.herokuapp.com/api/v1/students-an/docs](https://sos1718-08.herokuapp.com/api/v1/students-an/docs) (developed by Maria Solis Diago )
+
 
 ## SOS1718-09
 
