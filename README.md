@@ -114,19 +114,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **APIs**:
   - [https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs](https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs) (developed by Baltasar Ramírez Romero)
   - [https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs](https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs) (developed by Álvaro Jiménez Rodríguez)
-
-## SOS1718-01
-
-**Team**
--  [Pablo Ledo Antúnez](https://github.com/PabloLedo97)
--  [Francisco Sanchez Rivas](https://github.com/FranciscoSR11)
--  [Manuel Lineros Solano](https://github.com/ManuLineros)
--  **Project description**: Tarea 11 Backlog Lunes 26 de Febrero
--  
--  **Repository**:[gti-sos/SOS1718-01](https://github.com/gti-sos/SOS1718-01)
--  **URL**:[TBD](#)
-
-
+  - [https://sos1718-09.herokuapp.com/api/v2/open-source-contests/docs](https://sos1718-09.herokuapp.com/api/v2/open-source-contests/docs) (developed by Rafael Arellano Romero)
   
 ## SOS1718-10
 
