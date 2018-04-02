@@ -18,23 +18,23 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [gti-sos/SOS1718-01](https://github.com/gti-sos/SOS1718-01)
 - **URL**: http://sos1718-01.herokuapp.com/
 -  **APIs**:
-- [https://sos1718-01.herokuapp.com/api/v1/tvfees-stats/docs](https://documenter.getpostman.com/view/3897700/sos1718-01-tvfees-stats/RVu1Gq87)(developed by Pablo Ledo Antúnez)
-- [https://sos1718-01.herokuapp.com/api/v1/goals-stats/docs](https://documenter.getpostman.com/view/3935248/RVu1Gqez)(developed by Francisco Sánchez Rivas)
-- [https://sos1718-01.herokuapp.com/api/v1/transfer-stats/docs](https://documenter.getpostman.com/view/4049934/collection/RVu1GqWA)(developed by Manuel Lineros Solano)
+- [https://sos1718-01.herokuapp.com/api/v1/tvfees-stats/docs](https://sos1718-01.herokuapp.com/api/v1/tvfees-stats/docs)(developed by [Pablo Ledo Antunez](https://github.com/PabloLedo97))
+- [https://sos1718-01.herokuapp.com/api/v1/goals-stats/docs](https://sos1718-01.herokuapp.com/api/v1/goals-stats/docs)(developed by [Francisco Sanchez Rivas](https://github.com/FranciscoSR11))
+- [https://sos1718-01.herokuapp.com/api/v1/transfer-stats/docs](https://sos1718-01.herokuapp.com/api/v1/transfer-stats/docs)(developed by [Manuel Lineros Solano](https://github.com/ManuLineros))
    
 ## SOS1718-02 
 
 - **Team**
-  - [Mª Dolores Sanchez Rodriguez](https://github.com/LolaSanchez)
+  - [Lola Sanchez Rodriguez](https://github.com/LolaSanchez)
   - [Andres Lorenzo Carvia](https://github.com/wirfen)
   - [Jose Angel Martinez Maqueda](https://github.com/joseangelmm)
 - **Project description**: Study of education expenditures against employment and unemployment available for the countries of the European Union from 1998 to 2005.
 - **Repository**: [gti-sos/SOS1718-02](https://github.com/gti-sos/SOS1718-02)
 - **URL**: http://sos1718-02.herokuapp.com/
 - **APIs**:
-    - [http://sos1718-02.herokuapp.com/api/v1/expenditures/docs] (http://sos1718-02.herokuapp.com/api/v1/expenditures/docs) (developed by Andres Lorenzo Carvia)
-    - [http://sos1718-02.herokuapp.com/api/v1/employments/docs] (http://sos1718-02.herokuapp.com/api/v1/employments/docs) (developed by Jose Angel Martinez Maqueda)
-    - [http://sos1718-02.herokuapp.com/api/v1/unemployments/docs] (http://sos1718-02.herokuapp.com/api/v1/unemployments/docs) (developed by Lola Sanchez Rodriguez)
+    - [http://sos1718-02.herokuapp.com/api/v1/expenditures/docs] (http://sos1718-02.herokuapp.com/api/v1/expenditures/docs) (developed by [Andres Lorenzo Carvia](https://github.com/wirfen))
+    - [http://sos1718-02.herokuapp.com/api/v1/employments/docs] (http://sos1718-02.herokuapp.com/api/v1/employments/docs) (developed by [Jose Angel Martinez Maqueda](https://github.com/joseangelmm))
+    - [http://sos1718-02.herokuapp.com/api/v1/unemployments/docs] (http://sos1718-02.herokuapp.com/api/v1/unemployments/docs) (developed by [Lola Sanchez Rodriguez](https://github.com/LolaSanchez))
 
 ## SOS1718-03 
 
@@ -56,9 +56,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [SOS1617/SOS1718-04](https://github.com/gti-sos/SOS1718-04)
 - **URL**: http://sos1718-04.herokuapp.com/
 - **APIs**:
-  - [https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates](https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates) - (Developed by Carlos Jesús Montero Tapia)
-  - [https://sos1718-04.herokuapp.com/api/v1/unemployment-rates](https://sos1718-04.herokuapp.com/api/v1/unemployment-rates) - (Developed by Cristian Romero Povea)
-  - [https://sos1718-04.herokuapp.com/api/v1/graduation-rates](https://sos1718-04.herokuapp.com/api/v1/graduation-rates) - (Developed by Andres Rodriguez Gomez)
+  - [https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates/docs](https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates/docs) (Developed by [Carlos Montero Tapia](https://github.com/carmontap))
+  - [https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs](https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs) (Developed by [Cristian Romero Povea](https://github.com/crirompov))
+  - [https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs](https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs) (Developed by [Andrés Rodríguez Gómez](https://github.com/rgfandres))
 
 
 ## SOS1718-05
