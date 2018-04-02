@@ -32,9 +32,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [gti-sos/SOS1718-02](https://github.com/gti-sos/SOS1718-02)
 - **URL**: http://sos1718-02.herokuapp.com/
 - **APIs**:
-    - [http://sos1718-02.herokuapp.com/api/v1/expenditures/docs] (http://sos1718-02.herokuapp.com/api/v1/expenditures/docs) (developed by [Andres Lorenzo Carvia](https://github.com/wirfen))
-    - [http://sos1718-02.herokuapp.com/api/v1/employments/docs] (http://sos1718-02.herokuapp.com/api/v1/employments/docs) (developed by [Jose Angel Martinez Maqueda](https://github.com/joseangelmm))
-    - [http://sos1718-02.herokuapp.com/api/v1/unemployments/docs] (http://sos1718-02.herokuapp.com/api/v1/unemployments/docs) (developed by [Lola Sanchez Rodriguez](https://github.com/LolaSanchez))
+    - [http://sos1718-02.herokuapp.com/api/v1/expenditures/docs](http://sos1718-02.herokuapp.com/api/v1/expenditures/docs) (developed by [Andres Lorenzo Carvia](https://github.com/wirfen))
+    - [http://sos1718-02.herokuapp.com/api/v1/employments/docs](http://sos1718-02.herokuapp.com/api/v1/employments/docs) (developed by [Jose Angel Martinez Maqueda](https://github.com/joseangelmm))
+    - [http://sos1718-02.herokuapp.com/api/v1/unemployments/docs](http://sos1718-02.herokuapp.com/api/v1/unemployments/docs) (developed by [Lola Sanchez Rodriguez](https://github.com/LolaSanchez))
 
 ## SOS1718-03 
 
@@ -56,9 +56,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [SOS1617/SOS1718-04](https://github.com/gti-sos/SOS1718-04)
 - **URL**: http://sos1718-04.herokuapp.com/
 - **APIs**:
-  - [https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates/docs](https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates/docs) (Developed by [Carlos Montero Tapia](https://github.com/carmontap))
-  - [https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs](https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs) (Developed by [Cristian Romero Povea](https://github.com/crirompov))
-  - [https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs](https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs) (Developed by [Andrés Rodríguez Gómez](https://github.com/rgfandres))
+    - [https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates/docs](https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates/docs) (Developed by [Carlos Montero Tapia](https://github.com/carmontap))
+    - [https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs](https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs) (Developed by [Cristian Romero Povea](https://github.com/crirompov))
+    - [https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs](https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs) (Developed by [Andrés Rodríguez Gómez](https://github.com/rgfandres))
 
 
 ## SOS1718-05
@@ -71,9 +71,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [SOS1617/SOS1718-05](https://github.com/gti-sos/SOS1718-05)
 - **URL**: http://sos1718-05.herokuapp.com/
 - **APIs**:
-    - [country-stats](http://sos1718-05.herokuapp.com/api/v1/country-stats/docs) -  (developed by Manuel Barea Gallego)
-    - [best-stats](http://sos1718-05.herokuapp.com/api/v1/best-stats/docs) -  (developed by Julio Perea Rodriguez)
-    - [best-sellers-stats](http://sos1718-05.herokuapp.com/api/v1/best-sellers-stats/docs) -  (developed by Vicente García Mestre)
+    - [http://sos1718-05.herokuapp.com/api/v1/country-stats/docs](http://sos1718-05.herokuapp.com/api/v1/country-stats/docs) -  (developed by [Manuel Barea Gallego](https://github.com/ManuelBareaGallego))
+    - [http://sos1718-05.herokuapp.com/api/v1/best-stats/docs](http://sos1718-05.herokuapp.com/api/v1/best-stats/docs) -  (developed by [Julio Perea Rodriguez](https://github.com/julperrod1))
+    - [http://sos1718-05.herokuapp.com/api/v1/best-sellers-stats/docs](http://sos1718-05.herokuapp.com/api/v1/best-sellers-stats/docs) -  (developed by [Vicente García Mestre](https://github.com/vicgarmes))
 
 ## SOS1718-06
 
@@ -84,7 +84,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Project description**: We will study the relation between : world economy , the gpd by country and world personal income tax rate.
 - **URL**: http://sos1718-06.herokuapp.com/
 -  **APIs**:
-- [https://sos1718-06.herokuapp.com/api/v1/budgets-laws/docs](https://sos1718-06.herokuapp.com/api/v1/budgets-laws/docs)(developed by Álvaro Ortega Medina)
+    - [https://sos1718-06.herokuapp.com/api/v1/budgets-laws/docs](https://sos1718-06.herokuapp.com/api/v1/budgets-laws/docs) (developed by [Alvaro Ortega Medina](https://github.com/alvortmed))
 
 ## SOS1718-07
 
@@ -96,9 +96,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [gti-sos/SOS1718-07](https://github.com/gti-sos/SOS1718-07)
 - **URL**: http://sos1718-07.herokuapp.com/
 - **APIs**:
-    - [http://sos1718-07.herokuapp.com/api/v1/global-terrorism-data/docs](http://sos1718-07.herokuapp.com/api/v1/global-terrorism-data/docs) (developed by Miguel Angel Gomariz Cantador)
-    - [https://sos1718-07.herokuapp.com/api/v1/homicide-reports-data/docs](https://sos1718-07.herokuapp.com/api/v1/homicide-reports-data/docs) (developed by Francisco Jesús Pérez Zamorano)
-    - [https://sos1718-07.herokuapp.com/api/v1/attacks-data/docs](https://sos1718-07.herokuapp.com/api/v1/attacks-data/docs) (developed by Ismael Álvarez Guerrero)
+    - [http://sos1718-07.herokuapp.com/api/v1/global-terrorism-data/docs](http://sos1718-07.herokuapp.com/api/v1/global-terrorism-data/docs) (developed by [Miguel Angel Gomariz Cantador](https://github.com/miguelillo42))
+    - [https://sos1718-07.herokuapp.com/api/v1/homicide-reports-data/docs](https://sos1718-07.herokuapp.com/api/v1/homicide-reports-data/docs) (developed by [Francisco Jesus Perez Zamorano](https://github.com/fraperzam))
+    - [https://sos1718-07.herokuapp.com/api/v1/attacks-data/docs](https://sos1718-07.herokuapp.com/api/v1/attacks-data/docs) (developed by [Ismael Álvarez Guerrero](https://github.com/ismalvgue))
 
 ## SOS1718-08
 
