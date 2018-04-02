@@ -25,7 +25,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Jose Angel Martinez Maqueda](https://github.com/joseangelmm)
 - **Project description**: Study of education expenditures against employment and unemployment available for the countries of the European Union from 1998 to 2005.
 - **Repository**: [gti-sos/SOS1718-02](https://github.com/gti-sos/SOS1718-02)
-- **URL**: [TBD](http://sos1718-02.herokuapp.com/)
+- **URL**: http://sos1718-02.herokuapp.com/
 - **APIs**:
     - [http://sos1718-02.herokuapp.com/api/v1/expenditures/docs] (http://sos1718-02.herokuapp.com/api/v1/expenditures/docs) (developed by Andres Lorenzo Carvia)
     - [http://sos1718-02.herokuapp.com/api/v1/employments/docs] (http://sos1718-02.herokuapp.com/api/v1/employments/docs) (developed by Jose Angel Martinez Maqueda)
