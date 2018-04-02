@@ -18,9 +18,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [gti-sos/SOS1718-01](https://github.com/gti-sos/SOS1718-01)
 - **URL**: http://sos1718-01.herokuapp.com/
 -  **APIs**:
-- [https://sos1718-01.herokuapp.com/api/v1/tvfees-stats/docs](https://sos1718-01.herokuapp.com/api/v1/tvfees-stats/docs) (developed by [Pablo Ledo Antunez](https://github.com/PabloLedo97))
-- [https://sos1718-01.herokuapp.com/api/v1/goals-stats/docs](https://sos1718-01.herokuapp.com/api/v1/goals-stats/docs) (developed by [Francisco Sanchez Rivas](https://github.com/FranciscoSR11))
-- [https://sos1718-01.herokuapp.com/api/v1/transfer-stats/docs](https://sos1718-01.herokuapp.com/api/v1/transfer-stats/docs) (developed by [Manuel Lineros Solano](https://github.com/ManuLineros))
+  - [https://sos1718-01.herokuapp.com/api/v1/tvfees-stats/docs](https://sos1718-01.herokuapp.com/api/v1/tvfees-stats/docs) (developed by [Pablo Ledo Antunez](https://github.com/PabloLedo97))
+  - [https://sos1718-01.herokuapp.com/api/v1/goals-stats/docs](https://sos1718-01.herokuapp.com/api/v1/goals-stats/docs) (developed by [Francisco Sanchez Rivas](https://github.com/FranciscoSR11))
+  - [https://sos1718-01.herokuapp.com/api/v1/transfer-stats/docs](https://sos1718-01.herokuapp.com/api/v1/transfer-stats/docs) (developed by [Manuel Lineros Solano](https://github.com/ManuLineros))
    
 ## SOS1718-02 
 
