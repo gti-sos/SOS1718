@@ -77,7 +77,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Project description**: We will study the relation between : world economy , the gpd by country and world personal income tax rate.
 - **URL**: [Enlace a Heroku](http://sos1718-06.herokuapp.com/)
 -  **APIs**:
-- [https://sos1718-06.herokuapp.com/api/v1/budgetsLaws/docs](https://sos1718-06.herokuapp.com/api/v1/budgetsLaws/docs)(developed by Álvaro Ortega Medina)
+- [https://sos1718-06.herokuapp.com/api/v1/budgets-laws/docs](https://sos1718-06.herokuapp.com/api/v1/budgets-laws/docs)(developed by Álvaro Ortega Medina)
 
 ## SOS1718-07
 
