@@ -11,8 +11,12 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Pablo Ledo Antunez](https://github.com/PabloLedo97)
 - **Project description**: Study on spending on signings, average of viewers and revenue from television rights of the Spanish Football League.
 - **Repository**: [gti-sos/SOS1718-01](https://github.com/gti-sos/SOS1718-01)
-- **URL**: [TBD](#)
-
+- **URL**: [Enlace a Heroku](http://sos1718-01.herokuapp.com/)
+-  **APIs**:
+- [https://sos1718-01.herokuapp.com/api/v1/tvfees-stats/docs](https://documenter.getpostman.com/view/3897700/sos1718-01-tvfees-stats/RVu1Gq87)(developed by Pablo Ledo Antúnez)
+- [https://sos1718-01.herokuapp.com/api/v1/goals-stats/docs](https://documenter.getpostman.com/view/3935248/RVu1Gqez)(developed by Francisco Sánchez Rivas)
+- [https://sos1718-01.herokuapp.com/api/v1/transfer-stats/docs](https://documenter.getpostman.com/view/4049934/collection/RVu1GqWA)(developed by Manuel Lineros Solano)
+   
 ## SOS1718-02 
 
 - **Team**
@@ -21,7 +25,11 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Jose Angel Martinez Maqueda](https://github.com/joseangelmm)
 - **Project description**: Study of education expenditures against employment and unemployment available for the countries of the European Union from 1998 to 2005.
 - **Repository**: [gti-sos/SOS1718-02](https://github.com/gti-sos/SOS1718-02)
-- **URL**: [TBD](#)
+- **URL**: http://sos1718-02.herokuapp.com/
+- **APIs**:
+    - [http://sos1718-02.herokuapp.com/api/v1/expenditures/docs] (http://sos1718-02.herokuapp.com/api/v1/expenditures/docs) (developed by Andres Lorenzo Carvia)
+    - [http://sos1718-02.herokuapp.com/api/v1/employments/docs] (http://sos1718-02.herokuapp.com/api/v1/employments/docs) (developed by Jose Angel Martinez Maqueda)
+    - [http://sos1718-02.herokuapp.com/api/v1/unemployments/docs] (http://sos1718-02.herokuapp.com/api/v1/unemployments/docs) (developed by Lola Sanchez Rodriguez)
 
 ## SOS1718-03 
 
@@ -41,9 +49,12 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Andrés Rodríguez Gómez](https://github.com/rgfandres)
 - **Project description**: The project connects health care data, study level data and unemployment data.
 - **Repository**: [SOS1617/SOS1718-04](https://github.com/gti-sos/SOS1718-04)
-- **URL**: [TBD](https://sos1718-04.herokuapp.com)
+- **URL**: [https://sos1718-04.herokuapp.com](https://sos1718-04.herokuapp.com)
 - **APIs**:
-  - [https://sos1718-04.herokuapp.com/api/v1/unemployment-rates](https://sos1718-04.herokuapp.com/api/v1/unemployment-rates) - (Developed by Cristian Romero Povea) 
+  - [https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates](https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates) - (Developed by Carlos Jesús Montero Tapia)
+  - [https://sos1718-04.herokuapp.com/api/v1/unemployment-rates](https://sos1718-04.herokuapp.com/api/v1/unemployment-rates) - (Developed by Cristian Romero Povea)
+  - [https://sos1718-04.herokuapp.com/api/v1/graduation-rates](https://sos1718-04.herokuapp.com/api/v1/graduation-rates) - (Developed by Andres Rodriguez Gomez)
+
 
 ## SOS1718-05
 
@@ -53,7 +64,11 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Vicente García Mestre](https://github.com/vicgarmes)
 - **Project description**: Our objective is the gathering of data regarding music sales and popularity all over the world in order to study it.
 - **Repository**: [SOS1617/SOS1718-05](https://github.com/gti-sos/SOS1718-05)
-- **URL**: [TBD](#)
+- **URL**: [Heroku](https://sos1718-05.herokuapp.com)
+- **APIs**:
+    - [country-stats](http://sos1718-05.herokuapp.com/api/v1/country-stats/docs) -  (developed by Manuel Barea Gallego)
+    - [best-stats](http://sos1718-05.herokuapp.com/api/v1/best-stats/docs) -  (developed by Julio Perea Rodriguez)
+    - [best-sellers-stats](http://sos1718-05.herokuapp.com/api/v1/best-sellers-stats/docs) -  (developed by Vicente García Mestre)
 
 ## SOS1718-06
 
@@ -62,8 +77,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Alvaro Ortega Medina](https://github.com/alvortmed)
   - [Zoilo Gomez Gordon](https://github.com/zoigomgor)
 - **Project description**: We will study the relation between : world economy , the gpd by country and world personal income tax rate.
-- **Repository**: [SOS1617/SOS1718-06](https://github.com/gti-sos/SOS1718-06)
-- **URL**: [TBD](#)
+- **URL**: [Enlace a Heroku](http://sos1718-06.herokuapp.com/)
+-  **APIs**:
+- [https://sos1718-06.herokuapp.com/api/v1/budgets-laws/docs](https://sos1718-06.herokuapp.com/api/v1/budgets-laws/docs)(developed by Álvaro Ortega Medina)
 
 ## SOS1718-07
 
@@ -73,7 +89,11 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
     - [Ismael Álvarez Guerrero](https://github.com/ismalvgue)
 - **Project description**: Study of global terrorism
 - **Repository**: [gti-sos/SOS1718-07](https://github.com/gti-sos/SOS1718-07)
-- **URL**: [TBD](#)
+- **URL**: [TBD](http://sos1718-07.herokuapp.com/)
+- **APIs**:
+    - [http://sos1718-07.herokuapp.com/api/v1/global-terrorism-data/docs](http://sos1718-07.herokuapp.com/api/v1/global-terrorism-data/docs) (developed by Miguel Angel Gomariz Cantador)
+    - [https://sos1718-07.herokuapp.com/api/v1/homicide-reports-data/docs](https://sos1718-07.herokuapp.com/api/v1/homicide-reports-data/docs) (developed by Francisco Jesús Pérez Zamorano)
+    - [https://sos1718-07.herokuapp.com/api/v1/attacks-data/docs](https://sos1718-07.herokuapp.com/api/v1/attacks-data/docs) (developed by Ismael Álvarez Guerrero)
 
 ## SOS1718-08
 
@@ -83,7 +103,12 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [María Solís Diago](https://github.com/unpezllamadomiki)
 - **Project description**: Study of relationship between divorces, crimes and schoolar failure.
 - **Repository**: [SOS1617/SOS1718-08](https://github.com/gti-sos/SOS1718-08)
-- **URL**: [TBD](#)
+- **URL**: [TBD](http://sos1718-08.herokuapp.com/)
+- **APIs**:
+    - [https://sos1718-08.herokuapp.com/api/v1/crimes-an/docs](https://sos1718-08.herokuapp.com/api/v1/crimes-an/docs) (developed by Jose Enrique Prieto Menacho)
+    - [https://sos1718-08.herokuapp.com/api/v1/divorces-an/docs](https://sos1718-08.herokuapp.com/api/v1/divorces-an/docs) (developed by Jose Manuel Jurado Alvarez)
+    - [https://sos1718-08.herokuapp.com/api/v1/students-an/docs](https://sos1718-08.herokuapp.com/api/v1/students-an/docs) (developed by Maria Solis Diago )
+
 
 ## SOS1718-09
 
@@ -93,21 +118,28 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Rafael Arellano Romero](https://github.com/rarellano)
 - **Project description**: processing data of Spanish universities.
 - **Repository**: [SOS1617/SOS1718-09](https://github.com/gti-sos/SOS1718-09)
-- **URL**: [TBD](#)
-
+- **URL**: (http://sos1718-09.herokuapp.com/ )
+- **APIs**:
+  - [https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs](https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs) (developed by Baltasar Ramírez Romero)
+  - [https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs](https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs) (developed by Álvaro Jiménez Rodríguez)
+  - [https://sos1718-09.herokuapp.com/api/v2/open-source-contests/docs](https://sos1718-09.herokuapp.com/api/v2/open-source-contests/docs) (developed by Rafael Arellano Romero)
+  
 ## SOS1718-10
 
 - **Team**
   - [Victor Canseco Magro](https://github.com/viccanmag)
   - [David Bonilla Díaz](https://github.com/davidbonilla37)
   - [Francisco Guijarro Grau](https://github.com/Fraguigra)
-- **Project description**: -Comparison between the use of different transports of the autonomous communities of Spain, comparison of the ages of the world champions of the MotoGP world and Comparison the builders world champions for years of formula 1.
+- **Project description**: 
+  - Comparison between the use of different transports of the autonomous communities of Spain.
+  - Comparison of the ages of the world champions of the MotoGP world.
+  - Comparison the builders world champions for years of formula 1.
 - **Repository**: [SOS1617/SOS1718-10](https://github.com/gti-sos/SOS1718-10)
 - **URL**: [TBD](https://sos1718-10.herokuapp.com/)
 - **APIs**:
-  - [https://sos1718-10.herokuapp.com/api/v1/buses/docs](https://sos1718-10.herokuapp.com/api/v1/buses)**(developed by**[Victor Canseco Magro)](https://github.com/viccanmag)
-  - [https://sos1718-10.herokuapp.com/api/v1/buildings/docs](https://sos1718-10.herokuapp.com/api/v1/buildings)**(developed by**[David Bonilla Díaz)](https://github.com/davidbonilla37)
-  - [https://sos1718-10.herokuapp.com/api/v1/motogp-stats/docs](https://sos1718-10.herokuapp.com/api/v1/motogp-stats)**(developed by**[Francisco Guijarro Grau)](https://github.com/Fraguigra)
+  - [https://sos1718-10.herokuapp.com/api/v1/buses/docs](https://sos1718-10.herokuapp.com/api/v1/buses) **(developed by** [Victor Canseco Magro](https://github.com/viccanmag)**)**
+  - [https://sos1718-10.herokuapp.com/api/v1/builders/docs](https://sos1718-10.herokuapp.com/api/v1/builders) **(developed by** [David Bonilla Díaz](https://github.com/davidbonilla37)**)**
+  - [https://sos1718-10.herokuapp.com/api/v1/motogp-stats/docs](https://sos1718-10.herokuapp.com/api/v1/motogp-stats) **(developed by** [Francisco Guijarro Grau](https://github.com/Fraguigra)**)**
 
 ## SOS1718-11
 
@@ -132,7 +164,11 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Veronica Vela Palomo](https://github.com/kkdekiki)
 - **Project description**:We will analyze the relationship between the number of complaints about violations in the EU, tax rates on real estate and European hospital data. 
 - **Repository**: [SOS1617/SOS1718-12](https://github.com/gti-sos/SOS1718-12)
-- **URL**: [TBD](#)
+- **URL**: [TBD](https://sos1718-12.herokuapp.com)
+- **APIS**:
+    - [https://sos1718-12.herokuapp.com/api/v1/rape-stats/docs](https://documenter.getpostman.com/view/360397/sos1718-12-rape-stats-completo/RVu1GWFS)(developed by Manuel Jesús Torres Rincón)
+    - [https://sos1718-12.herokuapp.com/api/v1/hospital-stats/docs]()(developed by Verónica Vela Palomo)
+    - [https://sos1718-12.herokuapp.com/api/v1/taxes-stats/docs]()(developed by Jose Llopis Zapata)
 
 ## SOS1718-13
 
