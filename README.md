@@ -173,7 +173,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **APIS**:
     - [https://sos1718-12.herokuapp.com/api/v1/rape-stats/docs](https://documenter.getpostman.com/view/360397/sos1718-12-rape-stats-completo/RVu1GWFS)(developed by Manuel Jesús Torres Rincón)
     - [https://sos1718-12.herokuapp.com/api/v1/hospital-stats/docs]()(developed by Verónica Vela Palomo)
-    - [https://sos1718-12.herokuapp.com/api/v1/taxes-stats/docs]()(developed by Jose Llopis Zapata)
+    - [https://sos1718-12.herokuapp.com/api/v1/taxes-stats/docs](https://documenter.getpostman.com/view/392119/taxes-stats/RVu1HWcs)(developed by Jose Llopis Zapata)
 
 ## SOS1718-13
 
