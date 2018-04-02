@@ -119,9 +119,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [SOS1718/SOS1718-11](https://github.com/gti-sos/SOS1718-11)
 - **URL**: [TBD](https://sos1718-11.herokuapp.com)
 - **APIS**:
-    - [Basketball-Stats-API   DOCS](https://sos1718-11.herokuapp.com/api/v1/basketball-stats/docs)(developed by Antonio López Soult)
-    - [Baseball-Stats-API     DOCS](https://sos1718-11.herokuapp.com/api/v1/baseball-stats/docs)(developed by Mar López Soult)
-    - [Football-Stats-API     DOCS](https://sos1718-11.herokuapp.com/api/v1/football-stats/docs)(developed by Luciano del Valle Cano)
+    - [https://sos1718-11.herokuapp.com/api/v1/basketball-stats/docs](https://sos1718-11.herokuapp.com/api/v1/basketball-stats/docs)(developed by Antonio López Soult)
+    - [https://sos1718-11.herokuapp.com/api/v1/baseball-stats/docs](https://sos1718-11.herokuapp.com/api/v1/baseball-stats/docs)(developed by Mar López Soult)
+    - [https://sos1718-11.herokuapp.com/api/v1/football-stats/docs](https://sos1718-11.herokuapp.com/api/v1/football-stats/docs)(developed by Luciano del Valle Cano)
 
 
 ## SOS1718-12
