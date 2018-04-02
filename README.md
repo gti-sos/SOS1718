@@ -56,9 +56,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [SOS1617/SOS1718-04](https://github.com/gti-sos/SOS1718-04)
 - **URL**: http://sos1718-04.herokuapp.com/
 - **APIs**:
-    - [https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates/docs](https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates/docs) (Developed by [Carlos Montero Tapia](https://github.com/carmontap))
-    - [https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs](https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs) (Developed by [Cristian Romero Povea](https://github.com/crirompov))
-    - [https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs](https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs) (Developed by [Andrés Rodríguez Gómez](https://github.com/rgfandres))
+    - [https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates/docs](https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates/docs) (developed by [Carlos Montero Tapia](https://github.com/carmontap))
+    - [https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs](https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs) (developed by [Cristian Romero Povea](https://github.com/crirompov))
+    - [https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs](https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs) (developed by [Andrés Rodríguez Gómez](https://github.com/rgfandres))
 
 
 ## SOS1718-05
@@ -110,9 +110,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [SOS1617/SOS1718-08](https://github.com/gti-sos/SOS1718-08)
 - **URL**: http://sos1718-08.herokuapp.com/
 - **APIs**:
-    - [https://sos1718-08.herokuapp.com/api/v1/crimes-an/docs](https://sos1718-08.herokuapp.com/api/v1/crimes-an/docs) (developed by Jose Enrique Prieto Menacho)
-    - [https://sos1718-08.herokuapp.com/api/v1/divorces-an/docs](https://sos1718-08.herokuapp.com/api/v1/divorces-an/docs) (developed by Jose Manuel Jurado Alvarez)
-    - [https://sos1718-08.herokuapp.com/api/v1/students-an/docs](https://sos1718-08.herokuapp.com/api/v1/students-an/docs) (developed by Maria Solis Diago )
+    - [https://sos1718-08.herokuapp.com/api/v1/crimes-an/docs](https://sos1718-08.herokuapp.com/api/v1/crimes-an/docs) (developed by [José Enrique Prieto Menacho](https://github.com/josprimen))
+    - [https://sos1718-08.herokuapp.com/api/v1/divorces-an/docs](https://sos1718-08.herokuapp.com/api/v1/divorces-an/docs) (developed by [José Manuel Jurado Álvarez](https://github.com/jura2alvarez))
+    - [https://sos1718-08.herokuapp.com/api/v1/students-an/docs](https://sos1718-08.herokuapp.com/api/v1/students-an/docs) (developed by [María Solís Diago](https://github.com/unpezllamadomiki) )
 
 
 ## SOS1718-09
@@ -125,9 +125,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [SOS1617/SOS1718-09](https://github.com/gti-sos/SOS1718-09)
 - **URL**: http://sos1718-09.herokuapp.com/
 - **APIs**:
-  - [https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs](https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs) (developed by Baltasar Ramírez Romero)
-  - [https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs](https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs) (developed by Álvaro Jiménez Rodríguez)
-  - [https://sos1718-09.herokuapp.com/api/v2/open-source-contests/docs](https://sos1718-09.herokuapp.com/api/v2/open-source-contests/docs) (developed by Rafael Arellano Romero)
+    - [https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs](https://sos1718-09.herokuapp.com/api/v1/span-univ-stats/docs) (developed by [Baltasar Ramírez Romero](https://github.com/balramrom))
+    - [https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs](https://sos1718-09.herokuapp.com/api/v1/spanish-universities/docs) (developed by [Alvaro Jimenez Rodriguez](https://github.com/alvjimrod1))
+    - [https://sos1718-09.herokuapp.com/api/v2/open-source-contests/docs](https://sos1718-09.herokuapp.com/api/v2/open-source-contests/docs) (developed by [Rafael Arellano Romero](https://github.com/rarellano))
   
 ## SOS1718-10
 
@@ -142,9 +142,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [SOS1617/SOS1718-10](https://github.com/gti-sos/SOS1718-10)
 - **URL**: http://sos1718-10.herokuapp.com/
 - **APIs**:
-  - [https://sos1718-10.herokuapp.com/api/v1/buses/docs](https://sos1718-10.herokuapp.com/api/v1/buses) **(developed by** [Victor Canseco Magro](https://github.com/viccanmag)**)**
-  - [https://sos1718-10.herokuapp.com/api/v1/builders/docs](https://sos1718-10.herokuapp.com/api/v1/builders) **(developed by** [David Bonilla Díaz](https://github.com/davidbonilla37)**)**
-  - [https://sos1718-10.herokuapp.com/api/v1/motogp-stats/docs](https://sos1718-10.herokuapp.com/api/v1/motogp-stats) **(developed by** [Francisco Guijarro Grau](https://github.com/Fraguigra)**)**
+    - [https://sos1718-10.herokuapp.com/api/v1/buses/docs](https://sos1718-10.herokuapp.com/api/v1/buses/docs) (developed by [Victor Canseco Magro](https://github.com/viccanmag))
+    - [https://sos1718-10.herokuapp.com/api/v1/builders/docs](https://sos1718-10.herokuapp.com/api/v1/builders/docs) (developed by [David Bonilla Díaz](https://github.com/davidbonilla37))
+    - [https://sos1718-10.herokuapp.com/api/v1/motogp-stats/docs](https://sos1718-10.herokuapp.com/api/v1/motogp-stats/docs) (developed by [Francisco Guijarro Grau](https://github.com/Fraguigra))
 
 ## SOS1718-11
 
@@ -156,9 +156,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [SOS1718/SOS1718-11](https://github.com/gti-sos/SOS1718-11)
 - **URL**: http://sos1718-11.herokuapp.com/
 - **APIS**:
-    - [https://sos1718-11.herokuapp.com/api/v1/basketball-stats/docs](https://sos1718-11.herokuapp.com/api/v1/basketball-stats/docs)(developed by Antonio López Soult)
-    - [https://sos1718-11.herokuapp.com/api/v1/baseball-stats/docs](https://sos1718-11.herokuapp.com/api/v1/baseball-stats/docs)(developed by Mar López Soult)
-    - [https://sos1718-11.herokuapp.com/api/v1/football-stats/docs](https://sos1718-11.herokuapp.com/api/v1/football-stats/docs)(developed by Luciano del Valle Cano)
+    - [https://sos1718-11.herokuapp.com/api/v1/basketball-stats/docs](https://sos1718-11.herokuapp.com/api/v1/basketball-stats/docs)(developed by [Antonio López Soult](https://github.com/TITANLUX619))
+    - [https://sos1718-11.herokuapp.com/api/v1/baseball-stats/docs](https://sos1718-11.herokuapp.com/api/v1/baseball-stats/docs)(developed by [Mar López Soult](https://github.com/soult91))
+    - [https://sos1718-11.herokuapp.com/api/v1/football-stats/docs](https://sos1718-11.herokuapp.com/api/v1/football-stats/docs)(developed by [Luciano del Valle Cano](https://github.com/lucdelcan))
 
 
 ## SOS1718-12
@@ -171,9 +171,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [SOS1617/SOS1718-12](https://github.com/gti-sos/SOS1718-12)
 - **URL**: http://sos1718-12.herokuapp.com/
 - **APIS**:
-    - [https://sos1718-12.herokuapp.com/api/v1/rape-stats/docs](https://documenter.getpostman.com/view/360397/sos1718-12-rape-stats-completo/RVu1GWFS)(developed by Manuel Jesús Torres Rincón)
-    - [https://sos1718-12.herokuapp.com/api/v1/hospital-stats/docs]()(developed by Verónica Vela Palomo)
-    - [https://sos1718-12.herokuapp.com/api/v1/taxes-stats/docs](https://documenter.getpostman.com/view/392119/taxes-stats/RVu1HWcs)(developed by Jose Llopis Zapata)
+    - [https://sos1718-12.herokuapp.com/api/v1/rape-stats/docs](https://sos1718-12.herokuapp.com/api/v1/rape-stats/docs) (developed by [Manuel Jesus Torres Rincon](https://github.com/mjtr))
+    - [https://sos1718-12.herokuapp.com/api/v1/hospital-stats/docs](https://sos1718-12.herokuapp.com/api/v1/hospital-stats/docs) (developed by [Veronica Vela Palomo](https://github.com/kkdekiki))
+    - [https://sos1718-12.herokuapp.com/api/v1/taxes-stats/docs](https://sos1718-12.herokuapp.com/api/v1/taxes-stats/docs) (developed by [Jose Llopis Zapata](https://github.com/jllopis2))
 
 ## SOS1718-13
 
