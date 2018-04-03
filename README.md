@@ -144,7 +144,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **APIs**:
     - [https://sos1718-10.herokuapp.com/api/v1/buses/docs](https://sos1718-10.herokuapp.com/api/v1/buses/docs) (developed by [Victor Canseco Magro](https://github.com/viccanmag))
     - [https://sos1718-10.herokuapp.com/api/v1/builders/docs](https://sos1718-10.herokuapp.com/api/v1/builders/docs) (developed by [David Bonilla Díaz](https://github.com/davidbonilla37))
-    - [https://sos1718-10.herokuapp.com/api/v1/motogp-stats/docs](https://sos1718-10.herokuapp.com/api/v1/motogp-stats/docs) (developed by [Francisco Guijarro Grau](https://github.com/Fraguigra))
+    - [https://sos1718-10.herokuapp.com/api/v1/motogp-stats/docs](https://documenter.getpostman.com/view/3890364/sos1718-10-motogp-stats/RVu2kVJY) (developed by [Francisco Guijarro Grau](https://github.com/Fraguigra))
 
 ## SOS1718-11
 
