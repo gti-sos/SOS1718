@@ -142,7 +142,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [SOS1617/SOS1718-10](https://github.com/gti-sos/SOS1718-10)
 - **URL**: http://sos1718-10.herokuapp.com/
 - **APIs**:
-    - [https://sos1718-10.herokuapp.com/api/v1/buses/docs](https://sos1718-10.herokuapp.com/api/v1/buses/docs) (developed by [Victor Canseco Magro](https://github.com/viccanmag))
+    - [https://sos1718-10.herokuapp.com/api/v1/buses/docs](https://documenter.getpostman.com/view/1779157/collection/RVu2kVP1) (developed by [Victor Canseco Magro](https://github.com/viccanmag))
     - [https://sos1718-10.herokuapp.com/api/v1/builders/docs](https://sos1718-10.herokuapp.com/api/v1/builders/docs) (developed by [David Bonilla Díaz](https://github.com/davidbonilla37))
     - [https://sos1718-10.herokuapp.com/api/v1/motogp-stats/docs](https://documenter.getpostman.com/view/3890364/sos1718-10-motogp-stats/RVu2kVJY) (developed by [Francisco Guijarro Grau](https://github.com/Fraguigra))
 
