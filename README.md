@@ -56,15 +56,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [SOS1617/SOS1718-04](https://github.com/gti-sos/SOS1718-04)
 - **URL**: http://sos1718-04.herokuapp.com/
 - **APIs**:
-<<<<<<< HEAD
-  - [https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates](https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates) - (Developed by Carlos Jesús Montero Tapia)
-  - [https://sos1718-04.herokuapp.com/api/v1/unemployment-rates](https://sos1718-04.herokuapp.com/api/v1/unemployment-rates) - (Developed by Cristian Romero Povea)
-  - [https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs](https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs) - (Developed by Andres Rodriguez Gomez)
-=======
     - [https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates/docs](https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates/docs) (developed by [Carlos Montero Tapia](https://github.com/carmontap))
     - [https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs](https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs) (developed by [Cristian Romero Povea](https://github.com/crirompov))
     - [https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs](https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs) (developed by [Andrés Rodríguez Gómez](https://github.com/rgfandres))
->>>>>>> bb432e6b8ffbcbc8267b4c5bd76709fbd288dbec
 
 
 ## SOS1718-05
