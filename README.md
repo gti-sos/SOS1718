@@ -91,6 +91,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **URL**: http://sos1718-06.herokuapp.com/
 -  **APIs**:
     - [https://sos1718-06.herokuapp.com/api/v1/budgets-laws/docs](https://sos1718-06.herokuapp.com/api/v1/budgets-laws/docs) (developed by [Alvaro Ortega Medina](https://github.com/alvortmed))
+    - [https://sos1718-06.herokuapp.com/api/v1/general-budgets/docs](https://sos1718-06.herokuapp.com/api/v1/general-budgets/docs) (developed by [Dionisio Gálvez Camacho](https://github.com/diogalcam))
 
 ## SOS1718-07
 
