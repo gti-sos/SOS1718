@@ -190,3 +190,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Project description**: Looking for a correlation between motoGP and F1 champions and the Global Peace Index, considering every posibility.
 - **Repository**: [SOS1617/SOS1718-13](https://github.com/gti-sos/SOS1718-13)
 - **URL**: http://sos1718-13.herokuapp.com/
+ **APIS**:
+    - [https://sos1718-13.herokuapp.com/api/v1/motogpchamps/docs](https://sos1718-13.herokuapp.com/api/v1/motogpchamps/docs) (developed by [Alejandro Suárez Fernández](https://github.com/AlejandroSuarezFdez))
+    - [https://sos1718-13.herokuapp.com/api/v1/f-one-drivers/docs/docs](https://sos1718-13.herokuapp.com/api/v1/f-one-drivers/docs) (developed by [Alfonso Gutiérrez Romero](https://github.com/agr25))
+    - [https://sos1718-13.herokuapp.com/api/v1/gpi-stats/docs](https://sos1718-13.herokuapp.com/api/v1/gpi-stats/docs) (developed by [Pascual Requena](https://github.com/Requena115))
