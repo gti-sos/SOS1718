@@ -45,7 +45,11 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Project description**: This work is related to the pollution of cities, global warming and sea level rise.
 - **Repository**: [gti-sos/SOS1718-03](https://github.com/gti-sos/SOS1718-03)
 - **URL**: http://sos1718-03.herokuapp.com/
+- **Apis**
+    - http://sos1718-03.herokuapp.com/api/v1/pollution-cities/docs (developed by Adan Manuel Franco Moreno)
+    - http://sos1718-03.herokuapp.com/api/v1/global-warmings/docs (developed by Antonio Jose Perea Guadix)
 
+ 
 ## SOS1718-04
 
 - **Team**
@@ -59,7 +63,10 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
     - [https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates/docs](https://sos1718-04.herokuapp.com/api/v1/medical-attention-rates/docs) (developed by [Carlos Montero Tapia](https://github.com/carmontap))
     - [https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs](https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs) (developed by [Cristian Romero Povea](https://github.com/crirompov))
     - [https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs](https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs) (developed by [Andrés Rodríguez Gómez](https://github.com/rgfandres))
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8a4cd491cd0d4231060af0da320718eb50218c1b
 
 
 ## SOS1718-05
@@ -86,6 +93,8 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **URL**: http://sos1718-06.herokuapp.com/
 -  **APIs**:
     - [https://sos1718-06.herokuapp.com/api/v1/budgets-laws/docs](https://sos1718-06.herokuapp.com/api/v1/budgets-laws/docs) (developed by [Alvaro Ortega Medina](https://github.com/alvortmed))
+    - [https://sos1718-06.herokuapp.com/api/v1/general-budgets/docs](https://sos1718-06.herokuapp.com/api/v1/general-budgets/docs) (developed by [Dionisio Gálvez Camacho](https://github.com/diogalcam))
+    - [https://sos1718-06.herokuapp.com/api/v1/spending-policies/docs](https://sos1718-06.herokuapp.com/api/v1/spending-policies/docs) (developed by [Zoilo Gómez Gordón](https://github.com/zoigomgor))
 
 ## SOS1718-07
 
@@ -143,7 +152,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [SOS1617/SOS1718-10](https://github.com/gti-sos/SOS1718-10)
 - **URL**: http://sos1718-10.herokuapp.com/
 - **APIs**:
-    - [https://sos1718-10.herokuapp.com/api/v1/buses/docs](https://documenter.getpostman.com/view/1779157/collection/RVu2kVP1) (developed by [Victor Canseco Magro](https://github.com/viccanmag))
+    - [https://sos1718-10.herokuapp.com/api/v1/buses/docs](https://documenter.getpostman.com/view/1779157/collection/RVu5j8bu) (developed by [Victor Canseco Magro](https://github.com/viccanmag))
     - [https://sos1718-10.herokuapp.com/api/v1/builders/docs](https://documenter.getpostman.com/view/1779154/buildings/RVnZhdfi) (developed by [David Bonilla Díaz](https://github.com/davidbonilla37))
     - [https://sos1718-10.herokuapp.com/api/v1/motogp-stats/docs](https://documenter.getpostman.com/view/3890364/sos1718-10-motogp-stats/RVu2kVJY) (developed by [Francisco Guijarro Grau](https://github.com/Fraguigra))
 
@@ -185,3 +194,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Project description**: Looking for a correlation between motoGP and F1 champions and the Global Peace Index, considering every posibility.
 - **Repository**: [SOS1617/SOS1718-13](https://github.com/gti-sos/SOS1718-13)
 - **URL**: http://sos1718-13.herokuapp.com/
+- **APIS**:
+    - [https://sos1718-13.herokuapp.com/api/v1/motogpchamps/docs](https://sos1718-13.herokuapp.com/api/v1/motogpchamps/docs) (developed by [Alejandro Suárez Fernández](https://github.com/AlejandroSuarezFdez))
+    - [https://sos1718-13.herokuapp.com/api/v1/f-one-drivers/docs/docs](https://sos1718-13.herokuapp.com/api/v1/f-one-drivers/docs) (developed by [Alfonso Gutiérrez Romero](https://github.com/agr25))
+    - [https://sos1718-13.herokuapp.com/api/v1/gpi-stats/docs](https://sos1718-13.herokuapp.com/api/v1/gpi-stats/docs) (developed by [Pascual Requena](https://github.com/Requena115))
