@@ -117,9 +117,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
 - **Repository**: [gti-sos/SOS1718-08](https://github.com/gti-sos/SOS1718-08)
 - **URL**: http://sos1718-08.herokuapp.com/
 - **APIs**:
-    - [https://sos1718-08.herokuapp.com/api/v1/crimes-an/docs](https://sos1718-08.herokuapp.com/api/v1/crimes-an/docs) (developed by [José Enrique Prieto Menacho](https://github.com/josprimen))
-    - [https://sos1718-08.herokuapp.com/api/v1/divorces-an/docs](https://sos1718-08.herokuapp.com/api/v1/divorces-an/docs) (developed by [José Manuel Jurado Álvarez](https://github.com/jura2alvarez))
-    - [https://sos1718-08.herokuapp.com/api/v1/students-an/docs](https://sos1718-08.herokuapp.com/api/v1/students-an/docs) (developed by [María Solís Diago](https://github.com/unpezllamadomiki) )
+    - [https://sos1718-08.herokuapp.com/api/v1/crimes-an/docs](https://sos1718-08.herokuapp.com/#!/crimes-an/docs) (developed by [José Enrique Prieto Menacho](https://github.com/josprimen))
+    - [https://sos1718-08.herokuapp.com/api/v1/divorces-an/docs](https://sos1718-08.herokuapp.com/#!/divorces-an/docs) (developed by [José Manuel Jurado Álvarez](https://github.com/jura2alvarez))
+    - [https://sos1718-08.herokuapp.com/api/v1/students-an/docs](https://sos1718-08.herokuapp.com/#!/students-an/docs) (developed by [María Solís Diago](https://github.com/unpezllamadomiki) )
 
 
 ## SOS1718-09
