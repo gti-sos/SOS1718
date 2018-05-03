@@ -64,7 +64,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
     - [https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs](https://sos1718-04.herokuapp.com/api/v1/unemployment-rates/docs) (developed by [Cristian Romero Povea](https://github.com/crirompov))
     - [https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs](https://sos1718-04.herokuapp.com/api/v1/graduation-rates/docs) (developed by [Andrés Rodríguez Gómez](https://github.com/rgfandres))
 - **Front-end's**:
-    - [https://sos1718-04.herokuapp.com/GraduationRatesApp.html#!/](https://sos1718-04.herokuapp.com/GraduationRatesApp.html#!/) (developed by [Andrés Rodríguez Gómez](https://github.com/rgfandres))
+    - [https://sos1718-04.herokuapp.com/RoRoMonApp.html#!/graduation-rates](https://sos1718-04.herokuapp.com/RoRoMonApp.html#!/graduation-rates) (developed by [Andrés Rodríguez Gómez](https://github.com/rgfandres))
 
 ## SOS1718-05
 
