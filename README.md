@@ -204,6 +204,12 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
   - [Álvaro Ortega Medina](https://github.com/alvortmed)
 - **Project description**:study of the highest paid athletes.
 - **Repository**: [SOS1718-sep-aom](https://github.com/gti-sos/SOS1718-sep-aom)
-- **URL**: 
+- **URL**: https://sos1718-sep-aom.herokuapp.com/
 - **APIS**:
+    - [https://sos1718-sep-aom.herokuapp.com/api/v1/highest-paid-athletes/docs](https://sos1718-sep-aom.herokuapp.com/api/v1/highest-paid-athletes/docs) (developed by [Alvaro Ortega Medina](https://github.com/alvortmed))
     
+
+
+
+
+
