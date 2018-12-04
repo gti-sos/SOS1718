@@ -198,17 +198,6 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
     - [https://sos1718-13.herokuapp.com/api/v1/f-one-drivers/docs/docs](https://sos1718-13.herokuapp.com/api/v1/f-one-drivers/docs) (developed by [Alfonso Gutiérrez Romero](https://github.com/agr25))
     - [https://sos1718-13.herokuapp.com/api/v1/gpi-stats/docs](https://sos1718-13.herokuapp.com/api/v1/gpi-stats/docs) (developed by [Pascual Requena](https://github.com/Requena115))
     
-## SOS1718-dic-aom
-
-- **Team**
-  - [Álvaro Ortega Medina](https://github.com/alvortmed)
-- **Project description**:study of the highest paid athletes.
-- **Repository**: [SOS1718-dic-aom](https://github.com/gti-sos/SOS1718-dic-aom)
-- **URL**: https://sos1718-dic-aom.herokuapp.com/
-- **APIS**:
-    - [https://sos1718-dic-aom.herokuapp.com/api/v1/highest-paid-athletes/docs](https://sos1718-dic-aom.herokuapp.com/api/v1/highest-paid-athletes/docs) (developed by [Alvaro Ortega Medina](https://github.com/alvortmed))
-    
-
 
 
 
