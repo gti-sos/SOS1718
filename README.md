@@ -199,7 +199,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2017/
     - [https://sos1718-13.herokuapp.com/api/v1/gpi-stats/docs](https://sos1718-13.herokuapp.com/api/v1/gpi-stats/docs) (developed by [Pascual Requena](https://github.com/Requena115))
     
 
-## SOS1718-sep-aom
+## SOS1718-dic-aom
 
 - **Team**
   - [Álvaro Ortega Medina](https://github.com/alvortmed)
